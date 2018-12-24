@@ -1,4 +1,4 @@
-#Visual Design
+# Visual Design
 
 A react app that loads a json file from the "public" folder and pinpoint the location
 of companies around the world using google maps.
