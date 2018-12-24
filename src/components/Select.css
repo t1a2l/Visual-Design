@@ -1,0 +1,46 @@
+.selectStyle {
+  display: flex;
+  flex-direction: row;
+}
+
+.grp {
+  display: flex;
+  flex-direction: column;
+}
+
+.labelStyle {
+  order: 0;
+  padding-left: 4px;
+  margin-bottom: 0px;
+}
+
+.countrySelectStyle {
+  width: 120px;
+  height: 100px;
+  color: blue;
+  order: 1;
+  border-radius: 0 0 0 6px;
+  padding-bottom: 34px;
+}
+
+.citySelectStyle {
+  width: 120px;
+  height: 100px;
+  color: blue;
+  order: 1;
+  padding-bottom: 34px;
+}
+
+.companySelectStyle {
+  width: 120px;
+  height: 100px;
+  color: blue;
+  order: 1;
+  padding-bottom: 34px;
+}
+
+.optionStyle {
+  width: 120px;
+  padding: 8px 16px;
+  border-radius: 4px;
+}
