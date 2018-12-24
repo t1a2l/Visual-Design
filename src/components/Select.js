@@ -13,7 +13,7 @@ class Select extends Component {
       defaultCountryValue: "",
       defaultCityValue: "",
       defaultCompanyValue: "",
-      checkFirstUpdate: false
+      checkFirstUpdate: false // a bit to show the location for the first time
     };
   }
 
